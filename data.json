@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "room": "102",
+    "reserved_by": "Kenji",
+    "date": "2026-10-20",
+    "start_time": "00:00",
+    "end_time": "23:59"
+  },
+  {
+    "id": 2,
+    "room": "104",
+    "reserved_by": "Jeil",
+    "date": "2026-10-28",
+    "start_time": "16:00",
+    "end_time": "20:00"
+  },
+  {
+    "id": 3,
+    "room": "103",
+    "reserved_by": "Janno",
+    "date": "2026-10-28",
+    "start_time": "06:00",
+    "end_time": "22:00"
+  },
+  {
+    "id": 4,
+    "room": "101",
+    "reserved_by": "King Keanne",
+    "date": "2026-10-29",
+    "start_time": "07:00",
+    "end_time": "21:00"
+  }
+]
